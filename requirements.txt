@@ -1,0 +1,5 @@
+torch==2.0.1
+Flask
+transformers
+gunicorn
+Flask-Cors
